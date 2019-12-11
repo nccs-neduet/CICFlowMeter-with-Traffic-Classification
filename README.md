@@ -48,3 +48,11 @@ At the project root
 mvn package
 ```
 the jar file will be in the pathtoproject/CICFlowMeter/target
+
+
+### Classifier
+
+Classifier can be found data/daily/ folder by the name classifier.py.
+
+I have not uploaded the model(.sav) file because of the size limitations, you can train yours.
+
